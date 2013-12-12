@@ -7,6 +7,7 @@ DEMO LINK:http://yiidemos.gopagoda.com/index.php?r=site/paypalDemo
 
 USAGE:
 
+
 1.Download the package and extract into your extensions folder.
 
 2.update import section in config.php
